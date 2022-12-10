@@ -1,0 +1,25 @@
+body{
+  /*Resetar*/
+  margin:0;
+  padding: 0%;
+  /**/
+
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 31.25rem;
+}
+
+h1,h2{
+  color:red;
+  background-color: black;
+  padding: 20px;
+}
+.red-title{
+  background-color: gray;
+  color: red;
+  padding: 15px;
+  border: 5px solid red;
+}
+.title{
+  background-color: #000;
+  color: white;
+}
